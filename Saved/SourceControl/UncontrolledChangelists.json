@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/WB_PauseMenu.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Input/Actions/IA_PauseGame.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Software/Unreal/Projects/DuckOdyssey/Content/BPI_Player.uasset",
 				"D:/Software/Unreal/Projects/DuckOdyssey/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Software/Unreal/Projects/DuckOdyssey/Content/BP_MissionTrigger.uasset",
