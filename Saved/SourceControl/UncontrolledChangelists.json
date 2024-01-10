@@ -5,31 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-=======
-				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/animations/Idle_Break.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Idle_Break.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Walk_Stop.uasset",
 				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/animations/Walk_Stop.uasset",
-				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/WB_PauseMenu.uasset",
-				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Input/Actions/IA_PauseGame.uasset",
-				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
->>>>>>> Stashed changes
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/BPI_Player.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/BP_MissionTrigger.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/WBP_MissionDisplay.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/Testing.umap",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/WBP_InteractPrompt.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/BP_ItemInteract.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/BPI_Interactable.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/WBP_OptionsMenu.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/WB_PauseMenu.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/Content/MasterVolume.uasset",
-				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/WB_PauseMenu.uasset",
-				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Input/Actions/IA_PauseGame.uasset",
-				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"C:/Users/PC/OneDrive/Documentos/GitHub/DuckOdyssey/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/Software/Unreal/Projects/DuckOdyssey/DuckOdyssey/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/animations/Idle_Break.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/ely-vanguardsoldier-kerwinatienza_diffuse.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/ely-vanguardsoldier-kerwinatienza_glow.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/ely-vanguardsoldier-kerwinatienza_normal.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/ely-vanguardsoldier-kerwinatienza_specular.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Ely_By_K_Atienza.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Ely_By_K_Atienza_Anim.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Ely_By_K_Atienza_PhysicsAsset.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Ely_By_K_Atienza_Skeleton.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/ely_vanguardsoldier_kerwinatienza_M2.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Idle.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Punching__1_.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Run_To_Stop.uasset",
+				"C:/Users/xocam/OneDrive/Documentos/GitHub/DuckOdyssey/Content/_and_characterdesign/Running.uasset"
 			]
 		}
 	]
