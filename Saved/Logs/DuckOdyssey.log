@@ -1727,3 +1727,258 @@ Please see Output Log for details.
 [2024.01.11-20.34.01:417][ 91]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AlanOrozcoRosales/PersonajePrincipal/Golpe_Auto1
 [2024.01.11-20.34.01:417][ 91]LogSavePackage: Moving '../../../../DuckOddysey/DuckOdyssey/Saved/Golpe_Auto1DF23A86248C8EBC03CBFA199D3B22B01.tmp' to '../../../../DuckOddysey/DuckOdyssey/Saved/Autosaves/Game/AlanOrozcoRosales/PersonajePrincipal/Golpe_Auto1.uasset'
 [2024.01.11-20.34.01:417][ 91]LogFileHelpers: Auto-saving content packages took 0.100
+[2024.01.11-20.35.24:187][770]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\ProyectoFinal\Run.fbx)
+[2024.01.11-20.35.24:193][770]LogFbx: Loading FBX Scene from D:\ProyectoFinal\Run.fbx
+[2024.01.11-20.35.24:207][770]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.11-20.35.25:384][770]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.11-20.35.25:408][770]LogFbx: Valid bind pose for Pose (BindPose) - pSphere1
+[2024.01.11-20.35.25:409][770]LogFbx: Triangulating skeletal mesh pSphere1
+[2024.01.11-20.35.25:435][770]LogFbx: Bones digested - 33  Depth of hierarchy - 12
+[2024.01.11-20.35.25:500][770]LogSkeletalMesh: Section 0: Material=0, 1612 triangles
+[2024.01.11-20.35.25:506][770]LogSkeletalMesh: Building Skeletal Mesh Run...
+[2024.01.11-20.35.25:523][770]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Run) ...
+[2024.01.11-20.35.25:541][770]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/AlanOrozcoRosales/PersonajePrincipal/Run.Run
+[2024.01.11-20.35.25:576][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.35.25:576][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.35.25:582][770]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.35.25:582][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-20.35.25:594][770]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.01.11-20.35.25:694][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.35.29:196][ 52]LogSlate: Window 'Message Log' being destroyed
+[2024.01.11-20.35.29:201][ 52]LogSlate: Window 'Message Log' being destroyed
+[2024.01.11-20.35.38:258][776]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\ProyectoFinal\Run sin skin.fbx)
+[2024.01.11-20.35.38:264][776]LogFbx: Loading FBX Scene from D:\ProyectoFinal\Run sin skin.fbx
+[2024.01.11-20.35.38:277][776]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.11-20.35.39:481][776]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(0) Hips
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(1) Spine
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(2) Spine1
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(3) Spine2
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(4) Neck
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(5) Head
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(8) LeftArm
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(10) LeftHand
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(15) RightShoulder
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(16) RightArm
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(17) RightForeArm
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(18) RightHand
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(19) RightHandIndex1
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(20) RightHandIndex2
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(21) RightHandIndex3
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(22) RightHandIndex4
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(23) LeftUpLeg
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(24) LeftLeg
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(25) LeftFoot
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(26) LeftToeBase
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(27) LeftToe_End
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(28) RightUpLeg
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(29) RightLeg
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(30) RightFoot
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(31) RightToeBase
+[2024.01.11-20.35.39:519][776]LogFbx: SortedLinks :(32) RightToe_End
+[2024.01.11-20.35.39:527][776]LogFbx: Parsing AnimStack mixamo.com
+[2024.01.11-20.35.39:683][776]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AlanOrozcoRosales/PersonajePrincipal/Run_sin_skin.Run_sin_skin
+[2024.01.11-20.35.39:760][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.35.39:799][778]LogAnimationCompression: Display: Storing compressed animation data for /Game/AlanOrozcoRosales/PersonajePrincipal/Run_sin_skin.Run_sin_skin, at AnimationSequence/6698dc49201777f5d4eea815d1f69d19a6dcb206
+[2024.01.11-20.35.53:420][842]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/AlanOrozcoRosales/PersonajePrincipal/Run_PhysicsAsset.Run_PhysicsAsset
+[2024.01.11-20.35.53:422][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.35.53:422][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.35.53:445][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.01.11-20.35.53:695][842]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.01.11-20.35.56:718][978]LogSlate: Window 'Run_PhysicsAsset' being destroyed
+[2024.01.11-20.35.56:723][978]LogSlate: Window 'Run_PhysicsAsset' being destroyed
+[2024.01.11-20.35.56:738][978]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.35.56:738][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-20.35.57:746][ 56]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AlanOrozcoRosales/PersonajePrincipal/Run.Run
+[2024.01.11-20.35.57:747][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.35.57:747][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.35.57:769][ 56]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.11-20.35.57:968][ 56]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.01.11-20.35.58:051][ 56]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2024.01.11-20.36.14:508][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.11-20.36.14:513][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.11-20.36.14:546][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlanOrozcoRosales/PersonajePrincipal/Golpe" FILE="../../../../DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Golpe.uasset" SILENT=true
+[2024.01.11-20.36.14:551][174]LogSavePackage: Moving output files for package: /Game/AlanOrozcoRosales/PersonajePrincipal/Golpe
+[2024.01.11-20.36.14:551][174]LogSavePackage: Moving '../../../../DuckOddysey/DuckOdyssey/Saved/Golpe79AF8B9042F16FDA80C180AE22BED400.tmp' to '../../../../DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Golpe.uasset'
+[2024.01.11-20.36.14:565][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AlanOrozcoRosales/PersonajePrincipal/Run" FILE="../../../../DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Run.uasset" SILENT=true
+[2024.01.11-20.36.14:573][174]LogSavePackage: Moving output files for package: /Game/AlanOrozcoRosales/PersonajePrincipal/Run
+[2024.01.11-20.36.14:573][174]LogSavePackage: Moving '../../../../DuckOddysey/DuckOdyssey/Saved/Run0900D038438BAEB8D43767A1560C828D.tmp' to '../../../../DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Run.uasset'
+[2024.01.11-20.36.14:628][174]LogSavePackage: Moving output files for package: /Game/AlanOrozcoRosales/PersonajePrincipal/Run_PhysicsAsset
+[2024.01.11-20.36.14:628][174]LogSavePackage: Moving '../../../../DuckOddysey/DuckOdyssey/Saved/Run_PhysicsAssetCEBE3BF3443B986AFB380C8B3AC41831.tmp' to '../../../../DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Run_PhysicsAsset.uasset'
+[2024.01.11-20.36.14:665][174]LogSavePackage: Moving output files for package: /Game/AlanOrozcoRosales/PersonajePrincipal/Run_sin_skin
+[2024.01.11-20.36.14:665][174]LogSavePackage: Moving '../../../../DuckOddysey/DuckOdyssey/Saved/Run_sin_skinFD89CDFA4D6B919EA9C08F8645970EEE.tmp' to '../../../../DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Run_sin_skin.uasset'
+[2024.01.11-20.36.14:674][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 13.7 sec)
+[2024.01.11-20.36.14:678][174]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.11-20.36.14:678][174]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/AlanOrozcoRosales/PersonajePrincipal/Golpe.Golpe
+[2024.01.11-20.36.14:678][174]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/AlanOrozcoRosales/PersonajePrincipal/Run_sin_skin.Run_sin_skin
+[2024.01.11-20.36.14:678][174]LogContentValidation: Display: Validating /Script/Engine.PhysicsAsset /Game/AlanOrozcoRosales/PersonajePrincipal/Run_PhysicsAsset.Run_PhysicsAsset
+[2024.01.11-20.36.14:678][174]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/AlanOrozcoRosales/PersonajePrincipal/Run.Run
+[2024.01.11-20.36.15:902][245]LogSlate: Window 'Run' being destroyed
+[2024.01.11-20.36.15:907][245]LogSlate: Window 'Run' being destroyed
+[2024.01.11-20.36.15:940][245]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.36.15:940][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-20.36.19:420][584]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AlanOrozcoRosales/PersonajePrincipal/Run_sin_skin.Run_sin_skin
+[2024.01.11-20.36.19:472][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.36.19:472][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.36.19:481][584]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.11-20.36.19:677][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.36.19:677][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.36.20:001][584]LogSlate: Took 0.084307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.01.11-20.36.20:129][584]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.01.11-20.36.20:135][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.36.20:135][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.36.20:256][584]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.01.11-20.36.20:296][584]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.11-20.36.29:009][ 67]LogSlate: Window 'Run_sin_skin' being destroyed
+[2024.01.11-20.36.29:016][ 67]LogSlate: Window 'Run_sin_skin' being destroyed
+[2024.01.11-20.36.29:042][ 67]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.36.29:042][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-20.36.29:048][ 67]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.36.29:048][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-20.36.29:098][ 67]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.36.29:098][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-20.36.37:893][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.11-20.36.52:588][483]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\ProyectoFinal\Happy Idle sin skin.fbx)
+[2024.01.11-20.36.52:595][483]LogFbx: Loading FBX Scene from D:\ProyectoFinal\Happy Idle sin skin.fbx
+[2024.01.11-20.36.52:608][483]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.11-20.36.53:835][483]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(0) Hips
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(1) Spine
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(2) Spine1
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(3) Spine2
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(4) Neck
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(5) Head
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(8) LeftArm
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(10) LeftHand
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(15) RightShoulder
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(16) RightArm
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(17) RightForeArm
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(18) RightHand
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(19) RightHandIndex1
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(20) RightHandIndex2
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(21) RightHandIndex3
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(22) RightHandIndex4
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(23) LeftUpLeg
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(24) LeftLeg
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(25) LeftFoot
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(26) LeftToeBase
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(27) LeftToe_End
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(28) RightUpLeg
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(29) RightLeg
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(30) RightFoot
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(31) RightToeBase
+[2024.01.11-20.36.53:868][483]LogFbx: SortedLinks :(32) RightToe_End
+[2024.01.11-20.36.53:868][483]LogFbx: Parsing AnimStack mixamo.com
+[2024.01.11-20.36.54:095][483]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AlanOrozcoRosales/PersonajePrincipal/Happy_Idle_sin_skin.Happy_Idle_sin_skin
+[2024.01.11-20.36.54:098][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\ProyectoFinal\Golpe sin Skin.fbx)
+[2024.01.11-20.36.54:103][483]LogFbx: Loading FBX Scene from D:\ProyectoFinal\Golpe sin Skin.fbx
+[2024.01.11-20.36.54:116][483]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(0) Hips
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(1) Spine
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(2) Spine1
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(3) Spine2
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(4) Neck
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(5) Head
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(8) LeftArm
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(10) LeftHand
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(15) RightShoulder
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(16) RightArm
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(17) RightForeArm
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(18) RightHand
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(19) RightHandIndex1
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(20) RightHandIndex2
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(21) RightHandIndex3
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(22) RightHandIndex4
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(23) LeftUpLeg
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(24) LeftLeg
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(25) LeftFoot
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(26) LeftToeBase
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(27) LeftToe_End
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(28) RightUpLeg
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(29) RightLeg
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(30) RightFoot
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(31) RightToeBase
+[2024.01.11-20.36.54:117][483]LogFbx: SortedLinks :(32) RightToe_End
+[2024.01.11-20.36.54:117][483]LogFbx: Parsing AnimStack mixamo.com
+[2024.01.11-20.36.54:143][483]LogAnimationCompression: Display: Storing compressed animation data for /Game/AlanOrozcoRosales/PersonajePrincipal/Happy_Idle_sin_skin.Happy_Idle_sin_skin, at AnimationSequence/fcafd1f45119ecdcafac5c66e89799f4890c7314
+[2024.01.11-20.36.54:260][483]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AlanOrozcoRosales/PersonajePrincipal/Golpe_sin_Skin.Golpe_sin_Skin
+[2024.01.11-20.36.54:283][483]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AlanOrozcoRosales/PersonajePrincipal/Golpe_sin_Skin.Golpe_sin_Skin
+[2024.01.11-20.36.54:284][483]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\ProyectoFinal\Jumping sin skin.fbx)
+[2024.01.11-20.36.54:289][483]LogFbx: Loading FBX Scene from D:\ProyectoFinal\Jumping sin skin.fbx
+[2024.01.11-20.36.54:300][483]LogAnimationCompression: Display: Storing compressed animation data for /Game/AlanOrozcoRosales/PersonajePrincipal/Golpe_sin_Skin.Golpe_sin_Skin, at AnimationSequence/50eaf11be3e7a4cd50ce0cad0d1f5927105ae305
+[2024.01.11-20.36.54:302][483]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.11-20.36.54:302][483]LogFbx: SortedLinks :(0) Hips
+[2024.01.11-20.36.54:302][483]LogFbx: SortedLinks :(1) Spine
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(2) Spine1
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(3) Spine2
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(4) Neck
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(5) Head
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(8) LeftArm
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(10) LeftHand
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(15) RightShoulder
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(16) RightArm
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(17) RightForeArm
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(18) RightHand
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(19) RightHandIndex1
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(20) RightHandIndex2
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(21) RightHandIndex3
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(22) RightHandIndex4
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(23) LeftUpLeg
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(24) LeftLeg
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(25) LeftFoot
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(26) LeftToeBase
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(27) LeftToe_End
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(28) RightUpLeg
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(29) RightLeg
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(30) RightFoot
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(31) RightToeBase
+[2024.01.11-20.36.54:303][483]LogFbx: SortedLinks :(32) RightToe_End
+[2024.01.11-20.36.54:303][483]LogFbx: Parsing AnimStack mixamo.com
+[2024.01.11-20.36.54:474][483]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AlanOrozcoRosales/PersonajePrincipal/Jumping_sin_skin.Jumping_sin_skin
+[2024.01.11-20.36.54:503][485]LogAnimationCompression: Display: Storing compressed animation data for /Game/AlanOrozcoRosales/PersonajePrincipal/Jumping_sin_skin.Jumping_sin_skin, at AnimationSequence/65cdcfef26454065f6c4f80f50695142aba68b08
+[2024.01.11-20.37.08:963][168]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AlanOrozcoRosales/PersonajePrincipal/Happy_Idle_sin_skin.Happy_Idle_sin_skin
+[2024.01.11-20.37.08:964][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.37.08:965][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.37.08:995][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.11-20.37.09:185][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.37.09:185][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.37.09:281][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.11-20.37.09:281][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.11-20.37.09:300][168]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.01.11-20.37.09:314][168]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.11-20.37.38:358][774]LogSlate: Window 'Happy_Idle_sin_skin' being destroyed
+[2024.01.11-20.37.38:363][774]LogSlate: Window 'Happy_Idle_sin_skin' being destroyed
+[2024.01.11-20.37.38:379][774]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.37.38:379][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-20.37.38:385][774]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.37.38:385][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.11-20.37.38:418][774]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.01.11-20.37.38:418][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
