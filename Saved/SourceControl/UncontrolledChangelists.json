@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Material__26.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Pato3dsMax.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Jumping.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Jumping_Skeleton.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Jumping_PhysicsAsset.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Golpe.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Golpe_Skeleton.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Golpe_PhysicsAsset.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/mapapato_final.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Happy_Idle.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Happy_Idle_Skeleton.uasset",
+				"F:/DuckOddysey/DuckOdyssey/Content/AlanOrozcoRosales/PersonajePrincipal/Happy_Idle_PhysicsAsset.uasset",
 				"D:/Software/Unreal/Projects/DuckOdyssey/DuckOdyssey/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
