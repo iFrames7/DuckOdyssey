@@ -8551,3 +8551,5 @@ Please see Output Log for details.
 [2024.01.18-20.33.34:580][643]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/AlanOrozcoRosales/PersonajePrincipal/Animacionesinplace/jump_3.jump_3
 [2024.01.18-20.33.34:580][643]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/AlanOrozcoRosales/PersonajePrincipal/Animacionesinplace/jump_2.jump_2
 [2024.01.18-20.33.34:580][643]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/AlanOrozcoRosales/PersonajePrincipal/Animacionesinplace/jump_1.jump_1
+[2024.01.18-20.35.07:838][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.18-20.36.44:122][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
